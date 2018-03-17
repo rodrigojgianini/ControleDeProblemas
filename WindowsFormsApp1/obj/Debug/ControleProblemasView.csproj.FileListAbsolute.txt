@@ -1,0 +1,13 @@
+C:\Users\aluno\Desktop\ControleDeProblemas\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\aluno\Desktop\ControleDeProblemas\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\aluno\Desktop\ControleDeProblemas\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\aluno\Desktop\ControleDeProblemas\WindowsFormsApp1\obj\Debug\ControleProblemasView.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\ControleDeProblemas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\aluno\Desktop\ControleDeProblemas\WindowsFormsApp1\obj\Debug\ControleProblemasView.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\ControleDeProblemas\WindowsFormsApp1\obj\Debug\ControleProblemasView.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\ControleDeProblemas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\aluno\Desktop\ControleDeProblemas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\aluno\Desktop\ControleDeProblemas\WindowsFormsApp1\bin\Debug\Entidade.dll
+C:\Users\aluno\Desktop\ControleDeProblemas\WindowsFormsApp1\bin\Debug\Entidade.pdb
+C:\Users\aluno\Desktop\ControleDeProblemas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmTipo.resources
+C:\Users\aluno\Desktop\ControleDeProblemas\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmPrincipal.resources
